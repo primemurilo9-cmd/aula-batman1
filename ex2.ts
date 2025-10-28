@@ -1,3 +1,3 @@
 let banana
 console.log
-console
+console.log("bjwqdgjkskhgihuasdd")
